@@ -1,21 +1,2 @@
-# Command-Coal-Machine - CCM 3.0.0
-Command Coal Machine is more superior than CVM++ with more organized work and refined texts with functions,
-Command Coal Machine were capable of interacting with your PC, but use it carefully, any damage found, we're not responsible for it
-as the MIT License stated.
-
-Command Coal Machine were still within heavy development and pre-alpha version, we do not recommend you to use the older Console
-as it maybe a risk to your computer and very unstable. We do not use data collector and feel free to make a feedback through the
-console.
-## Command Lines
-### exit
-exiting program
-### print
-printing a text of string (Doesn't support calculation yet)
-### help
-display commands with their functionality
-### update
-display the updates / displaying the latest feature or updates
-### tick
-reconfigure tick of the console in millisecond
-### feedback
-sent feedback directly towards our database
+# Coal Command Line
+Coal Command Line is a pre-alpha CLI made in Lua and C++
