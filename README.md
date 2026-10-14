@@ -1,2 +1,2 @@
-# Coal Command Line
+# Coal Command Console
 Coal Command Line is a pre-alpha CLI made in Lua and C++
